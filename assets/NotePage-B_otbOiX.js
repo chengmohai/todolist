@@ -1,1 +1,0 @@
-import{_ as o,r as t,o as c,c as s,b as n}from"./index-DKGYA_QF.js";const a={},_={class:"main"};function r(p,d){const e=t("el-empty");return c(),s("div",_,[n(e,{description:"未开发"})])}const i=o(a,[["render",r],["__scopeId","data-v-5732440c"]]);export{i as default};
